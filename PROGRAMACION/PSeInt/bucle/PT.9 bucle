@@ -1,0 +1,20 @@
+Algoritmo dibujoCuadrado
+	Escribir "Dime la altura de tu cuadrado (en metros)"
+	Leer alt
+	Para i<-1 Hasta alt Con Paso 1 Hacer 
+		si i=1 o i=alt Entonces
+			Para j<-1 Hasta alt con paso 1 Hacer
+				Escribir "#" Sin Saltar
+			FinPara
+		SiNo
+			para j<-1 hasta alt Con Paso 1 Hacer
+				si j=1 o j=alt Entonces
+					Escribir Sin Saltar"#"
+				SiNo
+					Escribir Sin Saltar" "
+				FinSi
+			FinPara
+		FinSi
+		Escribir "" 
+	Fin Para
+FinAlgoritmo

@@ -1,0 +1,7 @@
+Algoritmo tablamult
+	Escribir "Dime un número y te digo su tabla de multiplicación"
+	Leer Num1
+	Para i<-1 Hasta 10 Con Paso 1 Hacer
+		Escribir Num1 "x" i ":" Num1*i
+	Fin Para
+FinAlgoritmo

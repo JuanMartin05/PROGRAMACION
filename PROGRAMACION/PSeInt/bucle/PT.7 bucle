@@ -1,0 +1,17 @@
+Algoritmo piramide
+    Definir  altura, i, j, k Como Entero
+    Escribir "Introduce la altura de la pirámide: "
+    Leer altura
+    Para i Desde  1 Hasta altura Hacer
+		
+        Para j Desde 1 Hasta (altura - i) Con Paso 1 Hacer
+            Escribir Sin Saltar " "
+        FIN PARA
+        
+        Para k Desde 1 Hasta (2 * i - 1) Hacer
+            Escribir Sin Saltar "#"
+        Fin para
+        
+        Escribir "" 
+    FIN PARa
+FinAlgoritmo

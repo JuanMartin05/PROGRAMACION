@@ -12,6 +12,7 @@
 ## MARKDOWN 
 **Aqui esta toda la informacion que necesitas saber sobre mi repositorio , ejercicios de los temas que llevo al dia.**
 
+----
 
 #### Tablas
 
@@ -28,10 +29,10 @@
 
 - [x] Deberes de programacion T.1
 - [x] Deberes de programacion T.2
-- [0] Deberes de programacion T.3
-- [0] Deberes de programacion T.4
+- [x] Deberes de programacion T.3
+- [x] Deberes de programacion T.4
 - [0] Deberes de programacion T.5
-- 
 
+  
 ---
 🧓🖖😻😱😰🖖👍👱🧔‍♀️🙀👊

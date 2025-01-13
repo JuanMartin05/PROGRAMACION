@@ -14,7 +14,7 @@
 
 ----
 
-#### Tablas
+#### Tipo de Lenguajes de programacion
 
 | Programacion | Tipo       |
 | -------- | -------------- |
